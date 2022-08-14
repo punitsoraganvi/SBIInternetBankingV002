@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-15T00:10:21 IST" name="Default suite" finished-at="2022-08-15T00:10:40 IST" duration-ms="19604">
+    <groups>
+    </groups>
+    <test started-at="2022-08-15T00:10:21 IST" name="Default test" finished-at="2022-08-15T00:10:40 IST" duration-ms="19604">
+      <class name="com.testautomation.byteam.Punit">
+        <test-method signature="tc1()[pri:-2, instance:com.testautomation.byteam.Punit@1ed6388a]" started-at="2022-08-15T00:10:21 IST" name="tc1" finished-at="2022-08-15T00:10:21 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:-1, instance:com.testautomation.byteam.Punit@1ed6388a]" started-at="2022-08-15T00:10:21 IST" name="tc2" finished-at="2022-08-15T00:10:40 IST" duration-ms="19267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- com.testautomation.byteam.Punit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
